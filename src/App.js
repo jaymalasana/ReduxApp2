@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import HomeContainer from "./container/HoneContainer";
 
 function App() {
   return (
     <>
-      <h1>Redux App</h1>
+      <HomeContainer />
     </>
   );
 }
